@@ -1,0 +1,22 @@
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\bin\Release\Retro Studio.exe.config
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\bin\Release\Retro Studio.exe
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\bin\Release\Retro Studio.pdb
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\obj\Release\Retro Studio.csproj.AssemblyReference.cache
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\obj\Release\Retro_Studio.Form1.resources
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\obj\Release\Retro_Studio.Properties.Resources.resources
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\obj\Release\Retro Studio.csproj.GenerateResource.cache
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\obj\Release\Retro Studio.csproj.CoreCompileInputs.cache
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\obj\Release\Retro Studio.exe
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\obj\Release\Retro Studio.pdb
+C:\Users\mertm\Desktop\Projeler\Retro Studio\Retro Studio\obj\Release\Retro Studio.exe.config
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\bin\Release\Retro Studio.exe.config
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\bin\Release\Retro Studio.exe
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\bin\Release\Retro Studio.pdb
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\obj\Release\Retro Studio.csproj.AssemblyReference.cache
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\obj\Release\Retro Studio.exe.config
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\obj\Release\Retro_Studio.Form1.resources
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\obj\Release\Retro_Studio.Properties.Resources.resources
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\obj\Release\Retro Studio.csproj.GenerateResource.cache
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\obj\Release\Retro Studio.csproj.CoreCompileInputs.cache
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\obj\Release\Retro Studio.exe
+C:\Users\mertm\Desktop\Projeler\Retro Studio 2026 1.1\Retro Studio\obj\Release\Retro Studio.pdb
